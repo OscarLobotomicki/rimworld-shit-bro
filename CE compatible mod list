@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModList>
+	<Name>ce list</Name>
+	<modIds>
+		<li>brrainz.harmony</li>
+		<li>ludeon.rimworld</li>
+		<li>ludeon.rimworld.royalty</li>
+		<li>unlimitedhugs.hugslib</li>
+		<li>jecrell.jecstools</li>
+		<li>ceteam.combatextended</li>
+		<li>dubwise.rimefeller</li>
+		<li>dubwise.rimatomics</li>
+		<li>syrchalis.universalfermenter</li>
+		<li>oskarpotocki.vanillafactionsexpanded.core</li>
+		<li>vanillaexpanded.vweg</li>
+		<li>vanillaexpanded.vwe</li>
+		<li>oskarpotocki.vanillafactionsexpanded.medievalmodule</li>
+		<li>oskarpotocki.vfe.vikings</li>
+		<li>oskarpotocki.vfe.insectoid</li>
+		<li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
+		<li>oskarpotocki.vanillaexpanded.royaltypatches</li>
+		<li>erdelf.humanoidalienraces</li>
+		<li>edb.preparecarefully</li>
+		<li>atlas.androidtiers</li>
+		<li>arandomkiwi.androidtierstxserie</li>
+		<li>hh.at.fixesntweaks</li>
+		<li>neceros.androidtiers.unfeelingpatch</li>
+		<li>cabbage.rimcities</li>
+		<li>hlx.rimworldalteredcarbon</li>
+		<li>arandomkiwi.mercenariesforme</li>
+		<li>woolstrand.realruins</li>
+		<li>spoonshortage.adogsaidanimalprosthetics</li>
+		<li>packmulesextended.standard</li>
+		<li>vanillaexpanded.vee</li>
+		<li>translucency.braininajar</li>
+		<li>ryder.turnitonoff</li>
+		<li>automatic.traderships</li>
+		<li>smashphil.carrycapacityfixed</li>
+		<li>syrchalis.moreslaves</li>
+		<li>thebird956.doublepopulation</li>
+		<li>erdelf.prisonerransom</li>
+		<li>uuugggg.mealsonwheels</li>
+		<li>tammybee.predatorhuntalert</li>
+		<li>paradox.morevanillaturrets</li>
+		<li>smashphil.neceros.srtsexpanded</li>
+		<li>dubwise.dubsbadhygiene</li>
+		<li>ogliss.ykara.harvesteverything</li>
+		<li>arandomkiwi.raidsforme</li>
+		<li>avius.prisonlabor</li>
+		<li>mlie.simplymorebridges</li>
+		<li>orion.moremechanoids</li>
+		<li>brrainz.justignoremepassing</li>
+		<li>avius.locks</li>
+		<li>arandomkiwi.huntforme</li>
+		<li>smuffle.harvestorganspostmortem</li>
+		<li>haplo.miscellaneous.robots</li>
+		<li>alaestor.miscrobots.plusplus</li>
+		<li>navyseal5.moreharvestdesignators</li>
+		<li>earthyturtle.letstrade</li>
+		<li>pinochemicali.skilledstonecutting</li>
+		<li>ogliss.thewhitecrayon.quarry</li>
+		<li>albion.goexplore</li>
+		<li>tikubonn.dontblockdoor</li>
+		<li>dubwise.dubsskylights</li>
+		<li>moretraitslots.kv.rw</li>
+		<li>smashphil.loadinginprogress</li>
+		<li>notfood.mendandrecycle</li>
+		<li>avilmask.commonsense</li>
+		<li>vanillaexpanded.vcef</li>
+		<li>kongmd.qee</li>
+		<li>syrchalis.setupcamp</li>
+		<li>pinochemicali.moretradeships</li>
+		<li>kentington.saveourship2</li>
+		<li>roolo.runandgun</li>
+		<li>ratys.madskills</li>
+		<li>automatic.recipeicons</li>
+		<li>fluffy.pharmacist</li>
+		<li>uuugggg.sharetheload</li>
+		<li>vanillaexpanded.vfecore</li>
+		<li>mehni.pickupandhaul</li>
+		<li>jaxe.bubbles</li>
+		<li>ykara.epoe</li>
+		<li>rimfridge.kv.rw</li>
+		<li>unlimitedhugs.allowtool</li>
+		<li>murmur.walllight</li>
+		<li>nephlite.orbitaltradecolumn</li>
+		<li>greatheart.ucshowroofradius</li>
+		<li>fluffy.blueprints</li>
+		<li>harkon.gunnut.chapter2</li>
+		<li>troopersmith1.deathrattle</li>
+		<li>troopersmith1.lifesupport</li>
+		<li>harkon.gunnut.chapter1</li>
+		<li>8z.callforintel</li>
+		<li>ogliss.perfectlygenericitem</li>
+		<li>vanillaexpanded.vfemedical</li>
+		<li>vanillaexpanded.vaecd</li>
+		<li>vanillaexpanded.vaeas</li>
+		<li>vanillaexpanded.vaed</li>
+		<li>vanillaexpanded.vaeed</li>
+		<li>vanillaexpanded.vfeproduction</li>
+		<li>vanillaexpanded.vaet</li>
+		<li>vanillaexpanded.vaetr</li>
+		<li>saakra.empire</li>
+		<li>vanillaexpanded.vaeis</li>
+		<li>vanillaexpanded.vaebf</li>
+		<li>vanillaexpanded.vaets</li>
+		<li>vanillaexpanded.vaeau</li>
+		<li>vanillaexpanded.vaetf</li>
+		<li>vanillaexpanded.vcooke</li>
+		<li>vanillaexpanded.vbrewe</li>
+		<li>vanillaexpanded.vcookestews</li>
+		<li>regrowth.botr.core</li>
+		<li>vanillaexpanded.vplantse</li>
+		<li>vanillaexpanded.vbookse</li>
+		<li>supplyanddemand.rw</li>
+		<li>crustypeanut.wce2.core</li>
+		<li>crashm.colorcodedmoodbar.11</li>
+		<li>xahkarias.evolvedorgansredux</li>
+		<li>oblitus.animalslogic</li>
+		<li>adarafirecaster.mechanoiddropsfullreversion</li>
+		<li>darthsergeant.10turrets</li>
+		<li>darthsergeant.10chargelance</li>
+		<li>dhultgren.smarterconstruction</li>
+		<li>vanillaexpanded.vhe</li>
+		<li>vanillaexpanded.vhe.beards</li>
+		<li>orion.hospitality</li>
+		<li>jaxe.pawnrules</li>
+		<li>com.distman.gastrap</li>
+		<li>mlie.prisonerarena</li>
+		<li>8z.dormitoriesnotbarracks</li>
+		<li>sulusdacor.meltup.nopowercommssimplified</li>
+		<li>fridgebaron.techsales</li>
+		<li>gguake.beheading</li>
+		<li>nkuznia.buildnearanimatrees</li>
+		<li>vse.freyafierce</li>
+		<li>spdskatr.projectrimfactory</li>
+		<li>spdskatr.projectrimfactory.drones</li>
+		<li>dhultgren.keepbedownership</li>
+		<li>revolus.animalsarefun</li>
+		<li>kikohi.jewelry</li>
+		<li>jangodsoul.simpleresourcecrate</li>
+		<li>kyrun.reunion</li>
+		<li>avilmask.grazinglands</li>
+		<li>nilchei.powerfulpsycastai</li>
+		<li>weilbyte.snapout</li>
+		<li>showhair.kv.rw</li>
+		<li>crlsniper.realisticrooms</li>
+		<li>khamenman.armorracks</li>
+		<li>ratys.rtsolarflareshield</li>
+		<li>ratys.rtpowerswitch</li>
+		<li>neceros.reinforcedwalls</li>
+		<li>ratys.rtfuse</li>
+		<li>wemd.partiallypassablewindturbines</li>
+		<li>halo.rsf</li>
+		<li>falconne.bwm</li>
+		<li>fluffy.areaunlocker</li>
+		<li>jaxe.toggleharvest</li>
+		<li>hauvega.retromod.walltorchesexpanded</li>
+		<li>jelly.craftsmanship</li>
+		<li>nif.toolbox</li>
+		<li>blake.standingcryptosleepcasket</li>
+		<li>jaxxa.ed.embrasures</li>
+		<li>regrowth.botr.wasteland</li>
+		<li>regrowth.botr.tundraexpansion</li>
+		<li>regrowth.botr.borealforestexpansion</li>
+		<li>regrowth.botr.coldbogexpansion</li>
+		<li>regrowth.botr.temperateforestexpansion</li>
+		<li>ataco.feedingtubes</li>
+		<li>eagle0600.dresspatients</li>
+		<li>mlie.rimquest</li>
+		<li>agentblac.makepawnsprisoners</li>
+		<li>co.uk.epicguru.bettertranshumanists</li>
+		<li>mlie.xndprofitableweapons</li>
+		<li>cozarkian.varietymatters.stockpile</li>
+		<li>kyd.prosthetics</li>
+		<li>harkon.gunnut.community</li>
+		<li>toywalrus.itemrequests</li>
+		<li>hidewalls.velcroboy333</li>
+		<li>vfme.caravanpacks</li>
+		<li>mlie.xndtinytweaks</li>
+		<li>mlie.xndmemorableauroras</li>
+		<li>isorex.advancedmoisturepump</li>
+		<li>hatti.qualitybuilder</li>
+		<li>orion.gastronomy</li>
+		<li>vanillaexpanded.vfeart</li>
+		<li>com.prostheticnomissingbodyparts.rimworld.mod</li>
+		<li>vanillaexpanded.vappe</li>
+		<li>crudbone.ways</li>
+		<li>arandomkiwi.guardsforme</li>
+		<li>avilmask.nonunopinata</li>
+		<li>roolo.giddyupcore</li>
+		<li>roolo.giddyupcaravan</li>
+		<li>roolo.giddyupbattlemounts</li>
+		<li>roolo.giddyuprideandroll</li>
+		<li>sarg.giddyupsaddles</li>
+		<li>vanillaexpanded.vfesecurity</li>
+		<li>ceteam.combatextendedguns</li>
+		<li>ceteam.combatextendedmelee</li>
+		<li>neceros.rimfactorysmallstorage</li>
+		<li>neceros.srtsexpandedoldgenesis</li>
+		<li>neceros.stopinsultingus</li>
+		<li>yume.highdensityhydro</li>
+		<li>tmc.armory.communitypack</li>
+		<li>katavrik.crashlanding</li>
+		<li>frontierdevelopments.shields</li>
+		<li>rim.job.world</li>
+		<li>eagleofphantoms.betterrjw</li>
+		<li>fluffy.modmanager</li>
+	</modIds>
+	<modNames>
+		<li>Harmony</li>
+		<li>Core</li>
+		<li>Royalty</li>
+		<li>HugsLib</li>
+		<li>JecsTools (Unofficial)</li>
+		<li>Combat Extended</li>
+		<li>Rimefeller</li>
+		<li>Rimatomics</li>
+		<li>[SYR] Universal Fermenter</li>
+		<li>Vanilla Expanded Framework</li>
+		<li>Vanilla Weapons Expanded - Grenades</li>
+		<li>Vanilla Weapons Expanded</li>
+		<li>Vanilla Factions Expanded - Medieval</li>
+		<li>Vanilla Factions Expanded - Vikings</li>
+		<li>Vanilla Factions Expanded - Insectoids</li>
+		<li>Vanilla Factions Expanded - Settlers</li>
+		<li>Vanilla Expanded - Royalty Patches</li>
+		<li>Humanoid Alien Races 2.0</li>
+		<li>EdB Prepare Carefully</li>
+		<li>Android tiers</li>
+		<li>Android tiers - TX Series</li>
+		<li>Android tiers - Fixes + Tweaks</li>
+		<li>Android Tiers Unfeeling Patch</li>
+		<li>RimCities - Citadel Update</li>
+		<li>Rimworld: Altered Carbon</li>
+		<li>Mercenaries For Me</li>
+		<li>Real Ruins</li>
+		<li>A Dog Said... Animal Prosthetics</li>
+		<li>Pack Mules Extended</li>
+		<li>Vanilla Events Expanded</li>
+		<li>Brain In a Jar</li>
+		<li>Turn It On and Off</li>
+		<li>Trader ships</li>
+		<li>Carry Capacity Fixed</li>
+		<li>[SYR] More Slaves</li>
+		<li>Double Population</li>
+		<li>PrisonerRansom</li>
+		<li>Meals On Wheels</li>
+		<li>Predator Hunt Alert</li>
+		<li>More Vanilla Turrets 1.1</li>
+		<li>SRTS Expanded</li>
+		<li>Dubs Bad Hygiene</li>
+		<li>Harvest Everything!</li>
+		<li>Raids For Me</li>
+		<li>Prison Labor</li>
+		<li>Simply More Bridges (Continued)</li>
+		<li>More Mechanoids</li>
+		<li>Just Ignore Me Passing</li>
+		<li>Locks</li>
+		<li>Hunt for Me</li>
+		<li>Harvest Organs Post Mortem</li>
+		<li>Misc. Robots</li>
+		<li>Misc. Robots++</li>
+		<li>More Harvest Designators!</li>
+		<li>Let's Trade!</li>
+		<li>Skilled Stonecutting</li>
+		<li>Quarry 1.1</li>
+		<li>Go Explore!</li>
+		<li>DontBlockDoor[1.0-1.2]</li>
+		<li>Dubs Skylights</li>
+		<li>[KV] More Trait Slots</li>
+		<li>Loading In Progress</li>
+		<li>MendAndRecycle</li>
+		<li>Common Sense</li>
+		<li>Vanilla Fishing Expanded</li>
+		<li>Questionable Ethics Enhanced</li>
+		<li>[SYR] Set Up Camp</li>
+		<li>More Trade Ships</li>
+		<li>Save Our Ship 2</li>
+		<li>RunAndGun</li>
+		<li>Mad Skills</li>
+		<li>Recipe icons</li>
+		<li>Pharmacist</li>
+		<li>Share The Load</li>
+		<li>Vanilla Furniture Expanded</li>
+		<li>Pick Up And Haul</li>
+		<li>Interaction Bubbles</li>
+		<li>Expanded Prosthetics and Organ Engineering</li>
+		<li>[KV] RimFridge</li>
+		<li>Allow Tool</li>
+		<li>Wall Light</li>
+		<li>Utility Columns</li>
+		<li>Utility Columns: Show Roof Radius.</li>
+		<li>Blueprints</li>
+		<li>Gun Nut - Chapter #2</li>
+		<li>Death Rattle Continued [1.2]</li>
+		<li>Life Support Continued [1.1][1.2]</li>
+		<li>Gun Nut - Chapter #1</li>
+		<li>Call For Intel</li>
+		<li>Perfectly Generic Item</li>
+		<li>Vanilla Furniture Expanded - Medical Module</li>
+		<li>Vanilla Animals Expanded — Cats and Dogs</li>
+		<li>Vanilla Animals Expanded — Arid Shrubland</li>
+		<li>Vanilla Animals Expanded — Desert</li>
+		<li>Vanilla Animals Expanded — Extreme Desert</li>
+		<li>Vanilla Furniture Expanded - Production</li>
+		<li>Vanilla Animals Expanded — Tundra</li>
+		<li>Vanilla Animals Expanded — Tropical Rainforest</li>
+		<li>Empire</li>
+		<li>Vanilla Animals Expanded — Ice Sheet</li>
+		<li>Vanilla Animals Expanded — Boreal Forest</li>
+		<li>Vanilla Animals Expanded — Tropical Swamp</li>
+		<li>Vanilla Animals Expanded — Australia</li>
+		<li>Vanilla Animals Expanded — Temperate Forest</li>
+		<li>Vanilla Cooking Expanded</li>
+		<li>Vanilla Brewing Expanded</li>
+		<li>Vanilla Cooking Expanded - Stews</li>
+		<li>[HLX] ReGrowth - Core</li>
+		<li>Vanilla Plants Expanded</li>
+		<li>Vanilla Books Expanded</li>
+		<li>Supply and Demand</li>
+		<li>War Crimes Expanded 2 Core</li>
+		<li>CM Color Coded Mood Bar [1.1+]</li>
+		<li>EvolvedOrgansRedux</li>
+		<li>Animals Logic</li>
+		<li>Mechanoid Drops Full Reversion</li>
+		<li>1.0 Turrets</li>
+		<li>1.0 Charge Lance</li>
+		<li>Smarter Construction</li>
+		<li>Vanilla Hair Expanded</li>
+		<li>Vanilla Hair Expanded - Beards</li>
+		<li>Hospitality</li>
+		<li>Pawn Rules</li>
+		<li>Gas Traps And Shells</li>
+		<li>Prisoner Arena (Continued)</li>
+		<li>Dormitories Not Barracks</li>
+		<li>Nopower Comms Simplified</li>
+		<li>TechSales</li>
+		<li>Cutting out Head</li>
+		<li>Build Near Anima Trees</li>
+		<li>Vanilla Storytellers Expanded - Freya Fierce</li>
+		<li>Project RimFactory Revived</li>
+		<li>Project RimFactory - Drones</li>
+		<li>Keep Bed Ownership</li>
+		<li>Animals are fun</li>
+		<li>Jewelry</li>
+		<li>[JDS] Simple Resource Crate</li>
+		<li>Reunion</li>
+		<li>Grazing Lands</li>
+		<li>Powerful Psycast AI</li>
+		<li>Snap Out!</li>
+		<li>[KV] Show Hair With Hats or Hide All Hats</li>
+		<li>Realistic Rooms</li>
+		<li>Armor Racks</li>
+		<li>RT Solar Flare Shield</li>
+		<li>RT Power Switch</li>
+		<li>Reinforced Walls</li>
+		<li>RT Fuse</li>
+		<li>[WD] Partially-Passable Wind Turbines</li>
+		<li>Rimworld: Spartan Foundry</li>
+		<li>Better Workbench Management</li>
+		<li>Area Unlocker</li>
+		<li>Toggle Harvest</li>
+		<li>Wall Torches Expanded</li>
+		<li>Craftsmanship</li>
+		<li>ToolBox</li>
+		<li>Standing Cryptopods</li>
+		<li>ED-Embrasures</li>
+		<li>[HLX] ReGrowth - Wasteland</li>
+		<li>[HLX] ReGrowth - Tundra Expansion</li>
+		<li>[HLX] ReGrowth - Boreal Forest Expansion</li>
+		<li>[HLX] ReGrowth - Cold Bog Expansion</li>
+		<li>[HLX] ReGrowth - Temperate Forest Expansion</li>
+		<li>Feeding Tubes</li>
+		<li>Dress Patients</li>
+		<li>RimQuest (Continued)</li>
+		<li>1.2 - Imprisonment On The Go! (Make Pawns Prisoners Without Beds)</li>
+		<li>Better Transhumanists</li>
+		<li>[XND] Profitable Weapons (Continued)</li>
+		<li>Variety Matters Stockpile</li>
+		<li>[KYD] More Pawns Get Prosthetics!</li>
+		<li>Gun Nut - Community Pack</li>
+		<li>A Petition for Provisions</li>
+		<li>Animal Hide Walls + Carpets(Continued)</li>
+		<li>VFME - Caravan Packs!</li>
+		<li>[XND] Tiny Tweaks (Continued)</li>
+		<li>[XND] Memorable Auroras (Continued)</li>
+		<li>Advanced Moisture Pump</li>
+		<li>QualityBuilder</li>
+		<li>Gastronomy</li>
+		<li>Vanilla Furniture Expanded - Art</li>
+		<li>Prosthetic No Missing Body Parts</li>
+		<li>Vanilla Apparel Expanded</li>
+		<li>Where Are Your Shoes? (Vanilla Apparel Expanded)</li>
+		<li>Guards For Me</li>
+		<li>Non uno Pinata</li>
+		<li>Giddy-up! Core</li>
+		<li>Giddy-up! Caravan</li>
+		<li>Giddy-up! Battle Mounts</li>
+		<li>Giddy-up! Ride and Roll</li>
+		<li>Giddy-Up! Add-on: Animal Saddles</li>
+		<li>Vanilla Furniture Expanded - Security</li>
+		<li>Combat Extended Guns</li>
+		<li>Combat Extended Melee</li>
+		<li>RimFactory Neceros Patch</li>
+		<li>SRTS Expanded - Old Genesis</li>
+		<li>Stop Insulting Us!</li>
+		<li>High Density Hydroponics</li>
+		<li>TMC Armory - Community Pack </li>
+		<li>Crash Landing</li>
+		<li>Shield Generators by Frontier Developments</li>
+		<li>RimJobWorld</li>
+		<li>BetterRJW</li>
+		<li>Mod Manager</li>
+	</modNames>
+</ModList>
