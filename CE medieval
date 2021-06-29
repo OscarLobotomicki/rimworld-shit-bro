@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModList>
+	<Name>medieval bruh</Name>
+	<modIds>
+		<li>brrainz.harmony</li>
+		<li>ludeon.rimworld</li>
+		<li>ludeon.rimworld.royalty</li>
+		<li>unlimitedhugs.hugslib</li>
+		<li>jecrell.jecstools</li>
+		<li>captainmuscles.categorizedbills</li>
+		<li>saakra.empire</li>
+		<li>syrchalis.universalfermenter</li>
+		<li>oskarpotocki.vanillafactionsexpanded.core</li>
+		<li>vanillaexpanded.vwe</li>
+		<li>oskarpotocki.vanillafactionsexpanded.medievalmodule</li>
+		<li>oskarpotocki.vfe.vikings</li>
+		<li>erdelf.humanoidalienraces</li>
+		<li>neronix17.toolbox</li>
+		<li>neronix17.fr.compilation</li>
+		<li>ceteam.combatextended</li>
+		<li>mlie.lordoftherimsthethirdage</li>
+		<li>edb.preparecarefully</li>
+		<li>cabbage.rimcities</li>
+		<li>arandomkiwi.mercenariesforme</li>
+		<li>woolstrand.realruins</li>
+		<li>packmulesextended.standard</li>
+		<li>ryder.turnitonoff</li>
+		<li>smashphil.carrycapacityfixed</li>
+		<li>syrchalis.moreslaves</li>
+		<li>thebird956.doublepopulation</li>
+		<li>erdelf.prisonerransom</li>
+		<li>uuugggg.mealsonwheels</li>
+		<li>tammybee.predatorhuntalert</li>
+		<li>dubwise.dubsbadhygiene</li>
+		<li>ogliss.ykara.harvesteverything</li>
+		<li>arandomkiwi.raidsforme</li>
+		<li>avius.prisonlabor</li>
+		<li>mlie.simplymorebridges</li>
+		<li>brrainz.justignoremepassing</li>
+		<li>krkr.locks2</li>
+		<li>arandomkiwi.huntforme</li>
+		<li>smuffle.harvestorganspostmortem</li>
+		<li>navyseal5.moreharvestdesignators</li>
+		<li>pinochemicali.skilledstonecutting</li>
+		<li>ogliss.thewhitecrayon.quarry</li>
+		<li>albion.goexplore</li>
+		<li>tikubonn.dontblockdoor</li>
+		<li>dubwise.dubsskylights</li>
+		<li>moretraitslots.kv.rw</li>
+		<li>smashphil.loadinginprogress</li>
+		<li>notfood.mendandrecycle</li>
+		<li>avilmask.commonsense</li>
+		<li>vanillaexpanded.vcef</li>
+		<li>syrchalis.setupcamp</li>
+		<li>roolo.runandgun</li>
+		<li>ratys.madskills</li>
+		<li>automatic.recipeicons</li>
+		<li>fluffy.pharmacist</li>
+		<li>uuugggg.sharetheload</li>
+		<li>vanillaexpanded.vfecore</li>
+		<li>jaxe.bubbles</li>
+		<li>unlimitedhugs.allowtool</li>
+		<li>nephlite.orbitaltradecolumn</li>
+		<li>greatheart.ucshowroofradius</li>
+		<li>fluffy.blueprints</li>
+		<li>troopersmith1.deathrattle</li>
+		<li>8z.callforintel</li>
+		<li>ogliss.perfectlygenericitem</li>
+		<li>vanillaexpanded.vaecd</li>
+		<li>vanillaexpanded.vaeas</li>
+		<li>vanillaexpanded.vaed</li>
+		<li>vanillaexpanded.vaeed</li>
+		<li>vanillaexpanded.vfeproduction</li>
+		<li>vanillaexpanded.vaet</li>
+		<li>vanillaexpanded.vaetr</li>
+		<li>vanillaexpanded.vaeis</li>
+		<li>vanillaexpanded.vaebf</li>
+		<li>vanillaexpanded.vaets</li>
+		<li>vanillaexpanded.vaeau</li>
+		<li>vanillaexpanded.vaetf</li>
+		<li>vanillaexpanded.vcooke</li>
+		<li>vanillaexpanded.vbrewe</li>
+		<li>vanillaexpanded.vcookestews</li>
+		<li>regrowth.botr.core</li>
+		<li>vanillaexpanded.vplantse</li>
+		<li>vanillaexpanded.vbookse</li>
+		<li>supplyanddemand.rw</li>
+		<li>crustypeanut.wce2.core</li>
+		<li>crashm.colorcodedmoodbar.11</li>
+		<li>oblitus.animalslogic</li>
+		<li>dhultgren.smarterconstruction</li>
+		<li>orion.hospitality</li>
+		<li>jaxe.pawnrules</li>
+		<li>mlie.prisonerarena</li>
+		<li>8z.dormitoriesnotbarracks</li>
+		<li>sulusdacor.meltup.nopowercommssimplified</li>
+		<li>fridgebaron.techsales</li>
+		<li>gguake.beheading</li>
+		<li>nkuznia.buildnearanimatrees</li>
+		<li>vse.freyafierce</li>
+		<li>dhultgren.keepbedownership</li>
+		<li>revolus.animalsarefun</li>
+		<li>kikohi.jewelry</li>
+		<li>jangodsoul.simpleresourcecrate</li>
+		<li>kyrun.reunion</li>
+		<li>avilmask.grazinglands</li>
+		<li>nilchei.powerfulpsycastai</li>
+		<li>weilbyte.snapout</li>
+		<li>showhair.kv.rw</li>
+		<li>crlsniper.realisticrooms</li>
+		<li>khamenman.armorracks</li>
+		<li>falconne.bwm</li>
+		<li>fluffy.areaunlocker</li>
+		<li>jaxe.toggleharvest</li>
+		<li>hauvega.retromod.walltorchesexpanded</li>
+		<li>jelly.craftsmanship</li>
+		<li>nif.toolbox</li>
+		<li>jaxxa.ed.embrasures</li>
+		<li>regrowth.botr.tundraexpansion</li>
+		<li>regrowth.botr.borealforestexpansion</li>
+		<li>regrowth.botr.coldbogexpansion</li>
+		<li>regrowth.botr.temperateforestexpansion</li>
+		<li>eagle0600.dresspatients</li>
+		<li>mlie.rimquest</li>
+		<li>agentblac.makepawnsprisoners</li>
+		<li>mlie.xndprofitableweapons</li>
+		<li>cozarkian.varietymatters.stockpile</li>
+		<li>toywalrus.itemrequests</li>
+		<li>hidewalls.velcroboy333</li>
+		<li>vfme.caravanpacks</li>
+		<li>mlie.xndmemorableauroras</li>
+		<li>hatti.qualitybuilder</li>
+		<li>orion.gastronomy</li>
+		<li>vanillaexpanded.vfeart</li>
+		<li>com.prostheticnomissingbodyparts.rimworld.mod</li>
+		<li>vanillaexpanded.vappe</li>
+		<li>crudbone.ways</li>
+		<li>arandomkiwi.guardsforme</li>
+		<li>avilmask.nonunopinata</li>
+		<li>roolo.giddyupcore</li>
+		<li>roolo.giddyupcaravan</li>
+		<li>roolo.giddyupbattlemounts</li>
+		<li>roolo.giddyuprideandroll</li>
+		<li>sarg.giddyupsaddles</li>
+		<li>vanillaexpanded.vfesecurity</li>
+		<li>neceros.stopinsultingus</li>
+		<li>kirby.nomechanoidsraids</li>
+		<li>notfood.seedsplease</li>
+		<li>shadow.spaiomegapatch</li>
+		<li>lwm.deepstorage</li>
+		<li>mehni.pickupandhaul</li>
+		<li>jangodsoul.simplestorage</li>
+		<li>mlie.xndtinytweaks</li>
+		<li>fluffy.colonymanager</li>
+		<li>deadlypandaghost.ingots</li>
+		<li>mom.medievalroyaltyfaction</li>
+		<li>fluffy.modmanager</li>
+		<li>torann.arimworldofmagic</li>
+		<li>mlie.argoniansofblackmarsh</li>
+		<li>aoba.tent</li>
+		<li>dylan.csl</li>
+		<li>captainmuscles.chillout</li>
+		<li>n7huntsman.combatextendedshields</li>
+		<li>onyxae.dragonsdescent</li>
+		<li>nunahuralshamikh.entosomnia</li>
+		<li>captainmuscles.gotosleep</li>
+		<li>flashpoint55.magicalpotionofmedieval</li>
+		<li>nunahuralshamikh.medp</li>
+		<li>nunahuralshamikh.medmed</li>
+		<li>bishop.mendingmedieval</li>
+		<li>mlie.thewitchertrials</li>
+		<li>mlie.lordoftherimsents</li>
+		<li>argon.tribalmed</li>
+		<li>mlie.arrowplease</li>
+		<li>syrchalis.individuality</li>
+		<li>pyrce.mass.graves</li>
+		<li>sirmashedpotato.medievaldruglab</li>
+		<li>captainmuscles.priceiswhat</li>
+		<li>zhrocks11.letstrade</li>
+		<li>cp.rimdeed</li>
+	</modIds>
+	<modNames>
+		<li>Harmony</li>
+		<li>Core</li>
+		<li>Royalty</li>
+		<li>HugsLib</li>
+		<li>JecsTools (Unofficial)</li>
+		<li>Categorized Crafting Bills</li>
+		<li>Empire</li>
+		<li>[SYR] Universal Fermenter</li>
+		<li>Vanilla Expanded Framework</li>
+		<li>Vanilla Weapons Expanded</li>
+		<li>Vanilla Factions Expanded - Medieval</li>
+		<li>Vanilla Factions Expanded - Vikings</li>
+		<li>Humanoid Alien Races 2.0</li>
+		<li>[O21] Toolbox</li>
+		<li>[O21] Forgotten Realms</li>
+		<li>Combat Extended</li>
+		<li>Lord of the Rims - The Third Age (Continued)</li>
+		<li>EdB Prepare Carefully</li>
+		<li>RimCities - Citadel Update</li>
+		<li>Mercenaries For Me</li>
+		<li>Real Ruins</li>
+		<li>Pack Mules Extended</li>
+		<li>Turn It On and Off</li>
+		<li>Carry Capacity Fixed</li>
+		<li>[SYR] More Slaves</li>
+		<li>Double Population</li>
+		<li>PrisonerRansom</li>
+		<li>Meals On Wheels</li>
+		<li>Predator Hunt Alert</li>
+		<li>Dubs Bad Hygiene</li>
+		<li>Harvest Everything!</li>
+		<li>Raids For Me</li>
+		<li>Prison Labor</li>
+		<li>Simply More Bridges (Continued)</li>
+		<li>Just Ignore Me Passing</li>
+		<li>Locks 2: Lock Them Out!</li>
+		<li>Hunt for Me</li>
+		<li>Harvest Organs Post Mortem</li>
+		<li>More Harvest Designators!</li>
+		<li>Skilled Stonecutting</li>
+		<li>Quarry 1.1</li>
+		<li>Go Explore!</li>
+		<li>DontBlockDoor[1.0-1.2]</li>
+		<li>Dubs Skylights</li>
+		<li>[KV] More Trait Slots</li>
+		<li>Loading In Progress</li>
+		<li>MendAndRecycle</li>
+		<li>Common Sense</li>
+		<li>Vanilla Fishing Expanded</li>
+		<li>[SYR] Set Up Camp</li>
+		<li>RunAndGun</li>
+		<li>Mad Skills</li>
+		<li>Recipe icons</li>
+		<li>Pharmacist</li>
+		<li>Share The Load</li>
+		<li>Vanilla Furniture Expanded</li>
+		<li>Interaction Bubbles</li>
+		<li>Allow Tool</li>
+		<li>Utility Columns</li>
+		<li>Utility Columns: Show Roof Radius.</li>
+		<li>Blueprints</li>
+		<li>Death Rattle Continued [1.2]</li>
+		<li>Call For Intel</li>
+		<li>Perfectly Generic Item</li>
+		<li>Vanilla Animals Expanded — Cats and Dogs</li>
+		<li>Vanilla Animals Expanded — Arid Shrubland</li>
+		<li>Vanilla Animals Expanded — Desert</li>
+		<li>Vanilla Animals Expanded — Extreme Desert</li>
+		<li>Vanilla Furniture Expanded - Production</li>
+		<li>Vanilla Animals Expanded — Tundra</li>
+		<li>Vanilla Animals Expanded — Tropical Rainforest</li>
+		<li>Vanilla Animals Expanded — Ice Sheet</li>
+		<li>Vanilla Animals Expanded — Boreal Forest</li>
+		<li>Vanilla Animals Expanded — Tropical Swamp</li>
+		<li>Vanilla Animals Expanded — Australia</li>
+		<li>Vanilla Animals Expanded — Temperate Forest</li>
+		<li>Vanilla Cooking Expanded</li>
+		<li>Vanilla Brewing Expanded</li>
+		<li>Vanilla Cooking Expanded - Stews</li>
+		<li>[HLX] ReGrowth - Core</li>
+		<li>Vanilla Plants Expanded</li>
+		<li>Vanilla Books Expanded</li>
+		<li>Supply and Demand</li>
+		<li>War Crimes Expanded 2 Core</li>
+		<li>CM Color Coded Mood Bar [1.1+]</li>
+		<li>Animals Logic</li>
+		<li>Smarter Construction</li>
+		<li>Hospitality</li>
+		<li>Pawn Rules</li>
+		<li>Prisoner Arena (Continued)</li>
+		<li>Dormitories Not Barracks</li>
+		<li>Nopower Comms Simplified</li>
+		<li>TechSales</li>
+		<li>Cutting out Head</li>
+		<li>Build Near Anima Trees</li>
+		<li>Vanilla Storytellers Expanded - Freya Fierce</li>
+		<li>Keep Bed Ownership</li>
+		<li>Animals are fun</li>
+		<li>Jewelry</li>
+		<li>[JDS] Simple Resource Crate</li>
+		<li>Reunion</li>
+		<li>Grazing Lands</li>
+		<li>Powerful Psycast AI</li>
+		<li>Snap Out!</li>
+		<li>[KV] Show Hair With Hats or Hide All Hats</li>
+		<li>Realistic Rooms</li>
+		<li>Armor Racks</li>
+		<li>Better Workbench Management</li>
+		<li>Area Unlocker</li>
+		<li>Toggle Harvest</li>
+		<li>Wall Torches Expanded</li>
+		<li>Craftsmanship</li>
+		<li>ToolBox</li>
+		<li>ED-Embrasures</li>
+		<li>[HLX] ReGrowth - Tundra Expansion</li>
+		<li>[HLX] ReGrowth - Boreal Forest Expansion</li>
+		<li>[HLX] ReGrowth - Cold Bog Expansion</li>
+		<li>[HLX] ReGrowth - Temperate Forest Expansion</li>
+		<li>Dress Patients</li>
+		<li>RimQuest (Continued)</li>
+		<li>1.2 - Imprisonment On The Go! (Make Pawns Prisoners Without Beds)</li>
+		<li>[XND] Profitable Weapons (Continued)</li>
+		<li>Variety Matters Stockpile</li>
+		<li>A Petition for Provisions</li>
+		<li>Animal Hide Walls + Carpets(Continued)</li>
+		<li>VFME - Caravan Packs!</li>
+		<li>[XND] Memorable Auroras (Continued)</li>
+		<li>QualityBuilder</li>
+		<li>Gastronomy</li>
+		<li>Vanilla Furniture Expanded - Art</li>
+		<li>Prosthetic No Missing Body Parts</li>
+		<li>Vanilla Apparel Expanded</li>
+		<li>Where Are Your Shoes? (Vanilla Apparel Expanded)</li>
+		<li>Guards For Me</li>
+		<li>Non uno Pinata</li>
+		<li>Giddy-up! Core</li>
+		<li>Giddy-up! Caravan</li>
+		<li>Giddy-up! Battle Mounts</li>
+		<li>Giddy-up! Ride and Roll</li>
+		<li>Giddy-Up! Add-on: Animal Saddles</li>
+		<li>Vanilla Furniture Expanded - Security</li>
+		<li>Stop Insulting Us!</li>
+		<li>[KIR]No Mechanoid Raids</li>
+		<li>SeedsPlease</li>
+		<li>SeedsPlease: All-In-One Megapatch</li>
+		<li>LWM's Deep Storage</li>
+		<li>Pick Up And Haul</li>
+		<li>[JDS] Simple Storage</li>
+		<li>[XND] Tiny Tweaks (Continued)</li>
+		<li>Colony Manager</li>
+		<li>Ingots Revived</li>
+		<li>Medieval Royalty Faction</li>
+		<li>Mod Manager</li>
+		<li>A RimWorld of Magic</li>
+		<li>Argonians of Blackmarsh (Continued)</li>
+		<li>Camping Tent</li>
+		<li>Children, school and learning</li>
+		<li>Chill the F*** Out</li>
+		<li>Combat Extended: Shields</li>
+		<li>Dragon's Descent</li>
+		<li>Entosomnia - Medieval Cryptosleep</li>
+		<li>Go the F*** to Sleep</li>
+		<li>Magical Potion Of Medieval</li>
+		<li>Medieval Prosthetics</li>
+		<li>Medieval Medicines</li>
+		<li>Mending Medieval</li>
+		<li>The Witcher Trials (Continued)</li>
+		<li>Lord of the Rims - Ents (Continued)</li>
+		<li>Argón's Tribal Medicine</li>
+		<li>Arrow Please (Continued)</li>
+		<li>[SYR] Individuality</li>
+		<li>Mass Graves</li>
+		<li>Medieval drug lab</li>
+		<li>The Price is What?</li>
+		<li>Let's Trade! [Continued]</li>
+		<li>[RH2] Rimdeed® - Pawn Recruitment</li>
+	</modNames>
+</ModList>
